@@ -105,3 +105,6 @@ milestone cannot be considered achieved if the issue isn't resolved.
 
 We don't annotate issues with Releases; Milestones are used instead. We don't use GitHub projects at all, that
 support is disabled for our organization.
+
+
+### Version para revision interna e-contact
